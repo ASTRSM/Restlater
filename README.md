@@ -11,3 +11,7 @@ Install all the packages/dependencies first
 ```NPM Config
 npm install
 ```
+Bundle all assets with Webpack
+```NPM Config
+npm run build
+```
